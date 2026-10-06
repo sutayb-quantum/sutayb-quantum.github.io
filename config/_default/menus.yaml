@@ -8,7 +8,7 @@ main:
   - name: About
     url: /about/
     weight: 10
-  - name: Computational Chemistry: what is it and what it is not...
+  - name: Computational Chemistry - what is it and what it is not...
     url: /computational-chemistry/
     weight: 20
   - name: Research
