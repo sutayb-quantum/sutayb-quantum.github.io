@@ -3,25 +3,24 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+# Sutay's Academic Menu Configuration
 main:
-  - name: Bio
-    url: /
+  - name: About
+    url: /about/
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Computational Chemistry: what is it and what it is not...
+    url: /computational-chemistry/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Research
+    url: /research/
     weight: 30
-  - name: Courses
-    url: courses/
+  - name: List of Publications
+    url: /publications/
     weight: 40
+  - name: Lab Members
+    url: /members/
+    weight: 50
+  - name: Contact
+    url: /contact/
+    weight: 60
+
