@@ -1,12 +1,15 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: "List of Publications"
+draft: false
 ---
+
+List of Publications available at:
+https://scholar.google.com.tr/citations?user=-IM9onIAAAAJ&hl=tr
+
+see also:
+
+https://akademi.itu.edu.tr/sutay/Dersler
+
+Courses:  Math for Chem,  Quantum Chemistry,  Computational Chemistry,  Statistical Mechanics,  Physical Chemistry
+
+https://akademi.itu.edu.tr/sutay/Projeler
