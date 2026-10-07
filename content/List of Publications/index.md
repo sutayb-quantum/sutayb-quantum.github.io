@@ -1,6 +1,6 @@
 ---
 title: "List of Publications"
-type: landing
+draft: false
 ---
 
 List of Publications available at:
