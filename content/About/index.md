@@ -6,6 +6,7 @@ draft: false
 BERKAY SÜTAY's THEORETICAL CHEMISTRY WEBPAGE​
 
 Find your passion...
+
 Computational Chemistry is only for specialists, not for pedestrians!
 
 Not only is the Universe stranger than we think, it is stranger than we can think.
