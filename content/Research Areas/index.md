@@ -1,6 +1,6 @@
 ---
 title: "Research" 
-type: landing
+draft: false
 ---
 
 High-level Ab Initio Computations (Coupled Cluster Method, Multiconfigurational and Multireference CI Methods)
