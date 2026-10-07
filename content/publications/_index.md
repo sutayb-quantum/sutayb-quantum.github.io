@@ -1,6 +1,7 @@
 ---
 title: "List of Publications"
 draft: false
+type: page
 ---
 
 List of Publications available at:
