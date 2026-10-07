@@ -1,6 +1,6 @@
 ---
 title: "Lab Members"
-type: landing
+draft: false
 ---
 
 M. E. Sözbir (Periodic DFT, Solid State Chemistry)
