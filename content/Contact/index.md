@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-type: landing
+draft: false
 ---
 
 Ready to collaborate or have questions about our research? Get in touch with me at      sutay@itu.edu.tr
