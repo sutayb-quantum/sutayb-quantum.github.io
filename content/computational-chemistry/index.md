@@ -13,4 +13,4 @@ Molecular Modeling brings the methods of quantum chemistry and the procedures of
 
 ... and ! Please bear in mind that computation, modeling, simulation and visualization are distinct concepts.
 
-{{< figure src="/uploads/images/weebly-3.png" style="float: right; margin-left: 15px; max-width: 250px;" >}}
+<img src="/uploads/images/weebly-3.png" alt="Computational Chemistry" style="float: right; margin: 0 0 15px 15px; width: 40%; max-width: 300px;">
