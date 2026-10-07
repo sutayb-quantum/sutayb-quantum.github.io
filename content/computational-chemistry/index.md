@@ -12,3 +12,5 @@ Computational Chemistry makes use of computers to assist in solving the equation
 Molecular Modeling brings the methods of quantum chemistry and the procedures of computational chemistry together to solve/model the complex chemical problems and processes. 
 
 ... and ! Please bear in mind that computation, modeling, simulation and visualization are distinct concepts.
+
+![Görseli](/uploads/images/weebly-3.jpg){style="float: right; margin-left: 15px;"}
