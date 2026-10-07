@@ -4,8 +4,11 @@ draft: false
 ---
 
 Quantum Mechanics is the branch of chemistry and physics that deals with the interaction of matter and light.
+
 Quantum Chemistry is the application of the principles of quantum mechanics on the structure of atoms and molecules and their interactions.
+
 Computational Chemistry makes use of computers to assist in solving the equations of quantum chemistry.
+
 Molecular Modeling brings the methods of quantum chemistry and the procedures of computational chemistry together to solve/model the complex chemical problems and processes. 
 
 ... and ! Please bear in mind that computation, modeling, simulation and visualization are distinct concepts.
