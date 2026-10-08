@@ -3,6 +3,8 @@ title: "Research"
 draft: false
 ---
 
+<img src="/uploads/images/weebly-5.png" alt="Research" style="float: right; margin: 0 0 15px 15px; width: 50%; max-width: 380px;">
+
 - High-level Ab Initio Computations (Coupled Cluster Method, Multiconfigurational and Multireference CI Methods)
 - Quantum Monte Carlo
 - Relativistic Quantum Chemistry
