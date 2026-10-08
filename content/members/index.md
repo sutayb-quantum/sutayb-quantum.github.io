@@ -9,7 +9,7 @@ M. E. Sözbir (periodic-DFT)
 
 E. F. Albayın (ab initio Quantum Chemistry)
 
-S. Gökmen (QMC, Machine Learning)
+S. Gökmen (Machine Learning)
 
 Y. E. Seyhan (Molecule-positron interaction, Dyson Equation)
 
