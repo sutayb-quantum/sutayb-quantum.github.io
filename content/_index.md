@@ -39,7 +39,10 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: |-
+        Our work on QMC calculations and the development of 3- and 4-body Faddeev solvers is ongoing.
+
+        ![Gorsel](/media/QMC-logo.jpg)
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
