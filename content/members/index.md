@@ -13,3 +13,5 @@ S. Gökmen (QMC, Machine Learning)
 Y. E. Seyhan (Molecule-positron interaction, Dyson Equation)
 
 S. Altundal (QMC)
+
+E. Yıldoğan (Confined atoms)
