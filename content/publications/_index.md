@@ -11,6 +11,7 @@ see also:
 
 https://akademi.itu.edu.tr/sutay/Dersler
 
-Courses:  Math for Chem,  Quantum Chemistry,  Computational Chemistry,  Statistical Mechanics,  Physical Chemistry
+Courses:  
+Math for Chem,  Quantum Chemistry,  Computational Chemistry,  Statistical Mechanics,  Physical Chemistry
 
 https://akademi.itu.edu.tr/sutay/Projeler
