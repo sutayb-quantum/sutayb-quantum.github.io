@@ -41,7 +41,7 @@ sections:
       subtitle: ''
       text: |-
         <marquee behavior="scroll" direction="left" style="color: #ff69b4; font-weight: bold; font-size: 1.1em;">
-          🔥 LATEST NEWS: Our work on QMC calculations and the development of 3- and 4-body Faddeev solvers is ongoing.
+          📢 LATEST NEWS:: Our work on QMC calculations and the development of 3- and 4-body Faddeev solvers is ongoing.
         </marquee>
 
         ![Görseli](/uploads/images/QMC-logo.jpg)
