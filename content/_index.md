@@ -68,4 +68,60 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+  - block: collection
+    id: past-events
+    content:
+      title: Past Events
+      subtitle: ''
+      text: |-
+        <marquee behavior="scroll" direction="left" style="color: #ff69b4; font-weight: bold; font-size: 1.1em;">
+          📌 PAST EVENTS :: from ACC '23 congress.
+        </marquee>
+
+        ![Görseli](/uploads/images/weebly-2.png)
+      page_type: blog
+      count: 10
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      offset: 0
+      order: desc
+    design:
+      view: card
+      spacing:
+        padding: [0, 0, 0, 0]
+
+  - block: collection
+    id: upcoming-events
+    content:
+      title: Upcoming Events
+      subtitle: ''
+      text: |-
+        <marquee behavior="scroll" direction="left" style="color: #0056b3; font-weight: bold; font-size: 1.1em;">
+          📅 UPCOMING EVENTS :: Details about the upcoming CPC 15 congress will be announced here.
+        </marquee>
+
+        ![Görseli](/uploads/images/upcoming-logo.jpg)
+      page_type: blog
+      count: 10
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      offset: 0
+      order: desc
+    design:
+      view: card
+      spacing:
+        padding: [0, 0, 0, 0]
 ---
