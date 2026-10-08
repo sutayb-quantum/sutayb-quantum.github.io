@@ -11,3 +11,4 @@ draft: false
 - Atomic and Molecular Spectroscopy
 - Monte Carlo CI
 - Chemical Applications of Graph Theory
+- Solution of Faddeev equations for three- and four-particle systems
