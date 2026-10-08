@@ -1,4 +1,4 @@
 ---
 # Author profile pages activation
-title: Authors
+title: Berkay Sütay
 ---
