@@ -3,8 +3,6 @@ title: "About"
 draft: false
 ---
 
-BERKAY SÜTAY's THEORETICAL CHEMISTRY WEBPAGE​
-
 Find your passion...
 
 Computational Chemistry is only for specialists, not for pedestrians!
