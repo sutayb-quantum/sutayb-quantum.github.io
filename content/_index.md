@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Click to Presentation
-        url: /Quantum_Chemistry_Presentation.pdf
+        url: /uploads/Quantum_Chemistry_Presentation.pdf
       headings:
         about: ''
         education: ''
