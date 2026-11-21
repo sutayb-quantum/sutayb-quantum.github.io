@@ -107,7 +107,7 @@ sections:
           📅 UPCOMING EVENTS :: Details about the upcoming CPC 15 congress will be announced here.
         </marquee>
 
-        ![Görseli](/uploads/images/CPC-15-logo1.tif)
+        ![Görseli](/uploads/images/CPC-15-logo1.jpg)
       page_type: blog
       count: 10
       filters:
